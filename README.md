@@ -1,3 +1,5 @@
+If I have time I'll try and update this to 1.19.4
+
 # DurabilityViewer
 
 This is another mod that shows your item durabilities as I couldn't find one that had everything I wanted.
